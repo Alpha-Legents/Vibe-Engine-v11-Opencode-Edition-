@@ -39,6 +39,4 @@ If this looks interesting:
 
 ---
 
-## Why I built this
-
-Didn’t want to rely on API costs or external compute. So I built my own.
+*Built at 17. Mostly out of boredom. Didn't want to pay for API costs. AI did the heavy lifting. I just kept hitting run until it worked. v18 is where I stopped caring enough to fix it further. v11 is the one that actually works reliably. And here ya go..*
