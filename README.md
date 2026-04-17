@@ -12,7 +12,8 @@ Vibe Engine v11 is a working local-first agent runtime that:
 * Handles unstable model outputs via multi-format parsing fallback
 
 Basically: a self-hosted coding agent backend that actually works.
-
+---
+Try it out: [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/Alpha-Legents/Vibe-Engine-v11-Opencode-Edition-/blob/main/engine.ipynb)
 ---
 
 ## Notes
